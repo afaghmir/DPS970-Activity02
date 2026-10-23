@@ -1,0 +1,16 @@
+name: Run tests
+
+on: [push, pull_request]
+
+jobs:
+  q1-connect-four:
+    name: Q1 - Connect Four MCTS tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run Q1 tests
+        working-directory: q1_connect_four
+        run: python -m unittest discover -s tests -v

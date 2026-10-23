@@ -2,7 +2,8 @@
 
 Seyedeh Afagh Mirdehghan
 
-Test results (GitHub Actions): https://github.com/afaghmir/DPS970-Activity02/actions
+- GitHub repo: https://github.com/afaghmir/DPS970-Activity02
+- Test results (GitHub Actions): https://github.com/afaghmir/DPS970-Activity02/actions
 
 ![tests](https://github.com/afaghmir/DPS970-Activity02/actions/workflows/tests.yml/badge.svg)
 

@@ -5,8 +5,6 @@ Seyedeh Afagh Mirdehghan
 - GitHub repo: https://github.com/afaghmir/DPS970-Activity02
 - Test results (GitHub Actions): https://github.com/afaghmir/DPS970-Activity02/actions
 
-![tests](https://github.com/afaghmir/DPS970-Activity02/actions/workflows/tests.yml/badge.svg)
-
 ## How to run
 
 Python 3, no extra packages.
